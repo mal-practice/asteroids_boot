@@ -1,1 +1,2 @@
-class player(pygame.sprite.Sprite.CircleShape)
+class Player(pygame.sprite.Sprite.CircleShape):
+    

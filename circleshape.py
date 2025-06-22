@@ -20,6 +20,3 @@ class CircleShape(pygame.sprite.Sprite):
     def update(self, dt):
         # sub-classes must override
         pass
-
-# add player ship
-PLAYER_RADIUS = 20
